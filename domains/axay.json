@@ -1,10 +1,9 @@
 {
     "owner": {
-        "username": "MrAkshayAS",
-        "email": "",
-        "discord" : "mrakshayas"
+        "username": "mraxays",
+        "discord": "mrakshayas"
     },
     "record": {
-        "CNAME": "mrakshayas.github.io"
+        "URL": "https://mraxays.github.io/"
     }
 }
